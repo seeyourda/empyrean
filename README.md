@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+  Araujo Defender
 </h1>
 
 ## Features
