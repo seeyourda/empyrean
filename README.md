@@ -4,7 +4,7 @@
 
 ## Features
 
-1- Real-Time Protection, Protects your
+- Real-Time Protection
     - Accounts
     - Personal data
     - Billing information
